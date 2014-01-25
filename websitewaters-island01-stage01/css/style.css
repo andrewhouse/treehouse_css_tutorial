@@ -1,11 +1,11 @@
 body {
 	font-family: 'Nunito', sans-serif;
-	color: #faf3bc;
-	background: #420600 url('img/bg-texture.jpg') repeat;
+	color: #00FFFF		;
+	background: #FF8C00 url('img/background2.jpg') repeat;
 }
 
 a {
-	color: #4fb69f;
+	color: #00FFFF	;
 	text-decoration: none;
 }
 
@@ -18,7 +18,7 @@ h1 {
 h2 {
 	font-weight: 100;
 	font-size: 1.500em;
-	color: #b4c34f;
+	color: #00FFFF	;
 }
 
 h3 {
